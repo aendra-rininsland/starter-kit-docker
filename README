@@ -1,0 +1,5 @@
+# Starter Kit Docker Image
+
+We use CircleCI v2 for Docker builds and this is intended to speed that up.
+
+@TODO move to ft-interactive infrastructure.
